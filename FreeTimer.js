@@ -104,7 +104,7 @@ export default class FreeTimer extends Component {
         </View>
         <TouchableHighlight onPress={this.onTap}>
           <View
-            style={{ width: 250, height: 200, backgroundColor: "steelblue" }}
+            style={{ width: 250, height: 400, backgroundColor: "steelblue" }}
           >
             <Text style={styles.welcome}>Tap here</Text>
           </View>
